@@ -5,3 +5,8 @@ EXPOSE 9090
 CMD [ "java","-jar"," target/game-of-life-1.0-SNAPSHOT.jar" ]
 
 
+or
+
+CMD ["sleep","10s"]
+
+
